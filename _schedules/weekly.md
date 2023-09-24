@@ -25,7 +25,7 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 5:00 PM
+        start: 2:00 PM
         end: 7:00 PM
         location: 30, rue Saint Guillaume Room E.102
   - name: Tuesday
