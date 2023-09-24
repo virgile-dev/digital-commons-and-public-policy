@@ -38,7 +38,6 @@ collections:
   modules:
   schedules:
   announcements:
-  cohorts:
 # Default layouts for each collection type
 defaults:
   - scope:
