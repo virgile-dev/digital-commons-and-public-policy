@@ -28,8 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  #Link label:
-   # - 'https://link.com'
+  Github:
+   - 'https://github.com/virgile-dev/digital-commons-and-public-policy'
 footer_content:
 
 # Collections for website data
@@ -38,6 +38,7 @@ collections:
   modules:
   schedules:
   announcements:
+  cohorts:
 # Default layouts for each collection type
 defaults:
   - scope:
