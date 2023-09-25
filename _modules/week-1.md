@@ -2,8 +2,8 @@
 title: Week 1 - Introducing the Commons
 ---
 
-Slides
-: **PDF**{: .label .label-purple }
+Course
+: **SLIDES**{: .label .label-purple }
   : [Download](/assets/pdfs/Digital%20Commons%20and%20Public%20Policy%20-%20Week%201.pdf)
 
 Bibliography
