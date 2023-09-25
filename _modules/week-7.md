@@ -1,5 +1,5 @@
 ---
-title: Week 7 - Should Public Money Fund Public Code?
+title: Week 7 - State Relationship With Digital Commons
 ---
 
 Slides: TBD
