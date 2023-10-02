@@ -1,10 +1,10 @@
 ---
-title: Week 8 - How should Big Tech contribute to digital commons ?
+title: Week 8 - Big Tech & digital commons
 ---
 
 Slides
 : **PDF**{: .label .label-purple }
-  : [Download](/assets/pdfs/Digital%20Commons%20and%20Public%20Policy%20-%20Week%201.pdf)
+<!--: [Download](/assets/pdfs/Digital%20Commons%20and%20Public%20Policy%20-%20Week%201.pdf)-->
 
 Bibliography
 : **VIDEO**{: .label .label-purple }
