@@ -22,12 +22,12 @@ timeline:
   - '6:30 PM'
   - '7:00 PM'
 schedule:
-  - name: Monday
+  - name: Tuesday
     events:
       - name: Lecture
-        start: 4:00 PM
-        end: 7:00 PM
-        location: 30, rue Saint Guillaume Room E.102
+        start: 7:15 PM
+        end: 9:15 PM
+        location: 27, rue Saint Pères B.103
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
