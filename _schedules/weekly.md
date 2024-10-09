@@ -22,13 +22,13 @@ timeline:
   - '6:30 PM'
   - '7:00 PM'
 schedule:
+  - name: Monday
   - name: Tuesday
     events:
       - name: Lecture
         start: 7:15 PM
         end: 9:15 PM
         location: 27, rue Saint Pères B.103
-  - name: Tuesday
   - name: Wednesday
   - name: Thursday
   - name: Friday
